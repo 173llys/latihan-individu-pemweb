@@ -1,7 +1,7 @@
 <?php
 $matkul = [
     ["nama" => "Pemrograman Web",   "sks" => 3, "nilai" => 90],
-    ["nama" => "Sistem Basis Data",        "sks" => 3, "nilai" => 88],
+    ["nama" => "Basis Data",        "sks" => 3, "nilai" => 88],
     ["nama" => "Algoritma",         "sks" => 4, "nilai" => 78],
     ["nama" => "Jaringan Komputer", "sks" => 2, "nilai" => 72],
     ["nama" => "Bahasa Inggris",    "sks" => 2, "nilai" => 92],
