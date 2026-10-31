@@ -7,7 +7,7 @@ $matkul = [
     ["nama" => "Bahasa Inggris",    "sks" => 2, "nilai" => 92],
     ["nama" => "Statistika",        "sks" => 3, "nilai" => 45],
 ];
- 
+
 function hitungBobot($nilai)
 {
     if ($nilai >= 85) {
